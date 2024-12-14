@@ -1,3 +1,4 @@
+gfauto
 
 Clone the repository, navigate to the directory, make the script executable, and run it with: 
 
